@@ -13,7 +13,7 @@
 ***Bold Italic***
 
 
-This is the -git commands- markdown script
+This is the 'git commands' markdown script
 
 ---
 a=1
