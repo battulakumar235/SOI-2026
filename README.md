@@ -13,8 +13,10 @@
 ***Bold Italic***
 
 
+This is the -git commands- markdown script
+
 ---
 a=1
 b=2
-a+b
+print(a+b)
 ---
